@@ -1,7 +1,6 @@
 ananas
 apelsin
 aprikos
-banan[14]
 carambola (stjärnfrukt)
 citron
 citrusfrukt
@@ -11,3 +10,7 @@ granatäpple
 grapefrukt
 kaktusfikon
 kiwi
+lime
+mandarin
+mango
+melon
