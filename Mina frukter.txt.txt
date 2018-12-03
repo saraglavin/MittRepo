@@ -14,4 +14,3 @@ lime
 mandarin
 mango
 melon
-kiwi
